@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"msg_connected": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumberr": "6289529291185",
+	"ownername": "ᴹᴿ᭄ ZEXXO STORE ×፝֟͜×",
+	"botname":"ZEXXO BOTZ",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"captionpay":"Scan pembayaran gopay untuk dana/ovo minta ke owner",
+	"fake": " 「  ZEXXO BOTZ 」\nCreated By ᴹᴿ᭄ ZEXXO STORE ×፝֟͜×"
+}
