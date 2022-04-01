@@ -1,22 +1,39 @@
 const pc_sewa = () => {
 return `「 *PRICE LIST* 」
 							
-⬣ PRICE SEWABOT
+╭──「 📖  *PRICE SEWABOT*
+│ 1 MINGGU = Rp 3.000
+│ 2 MINGGU = Rp 5.000
+│PERMANEN = Rp 7.000
+│PERMANEN + USER PREM = Rp 10.000
+│JASA RUN HEROKU BAWA DANA 20K+SC Sendiri
+│JASA RUN TERMUX BAWA DANA 20K+SC Sendiri
 
-⬡ 1 MINGGU = Rp 5.000
-⬡ 2 MINGGU = Rp 6.000
-⬡ 3 MINGGU = Rp 8.000
-⬡ PERMANEN = Rp 10.000
-⬡ PERMANEN + USER PREM = Rp 15.000
-
-
-⬣ PRICE JADIBOT
-
-⬡ JADI BOT PERMANEN 25K
-
-
-⬣ MINAT? PM
-⬡ wa.me/629529291185
+╭──「 📖  *PRICE JADIBOT*
+│
+├ • *Permanen*
+│
+│ ⤷ *Harga :  25k [E-Wallet]*
+│ ⤷ *Harga :  30k [Pulsa]*
+│
+├─ 「 💰  *PAYMENT* 」
+│
+│ ⤷ *Dana [Diutamakan]*
+│ ⤷ *Ovo*
+│ ⤷ *Gopay*
+│ ⤷ *Pulsa Smartfren/Indosat*
+│
+├─ 「 👨‍💻  *RUN ON* 」
+│
+│ ⤷ *Heroku [Diutamakan]*
+│ ⤷ *Railway* 
+│
+├─ 「 📝  *NOTES* 」
+│
+│ ⤷ _Tidak perlu termux_
+│ ⤷ _Minat? Hubungi Wa.me//6289529291185_
+│
+╰──「 *Thank's* 」
 
 
 NOTE : 
