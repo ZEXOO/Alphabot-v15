@@ -6,7 +6,7 @@
 	"anti_delete" : false,
 	"anticall": false,
 	"auto_welcome_msg": true,
-	"auto_leave_msg": true,
+	"auto_leave_msg": false,
 	"prefix": ".",
 	"language":"ind",
 	"ownerNumberr": "6289529291185",
